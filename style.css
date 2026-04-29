@@ -52,8 +52,8 @@ div{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-    align-content: space-between;
-    justify-content: end;
+    align-content: space-around;
+    justify-content: space-between;
     align-items: end;
     justify-items: stretch;
 
